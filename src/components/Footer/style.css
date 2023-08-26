@@ -1,0 +1,16 @@
+footer {
+    font-size: 2.5rem;
+    background-image: url(../../assets/img/header-background.jpg);
+    width: 100%;
+    height: auto;
+}
+
+footer a {
+    text-decoration: none;
+    color: var(--header-text-color);
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}

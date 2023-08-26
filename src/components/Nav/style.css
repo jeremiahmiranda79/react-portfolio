@@ -1,0 +1,20 @@
+header .nav {
+    font-size: 2.7rem;
+}
+
+header .nav-link {
+    text-decoration: none;
+    color: yellow;
+    opacity: 0.6;
+    font-family: 'Aladin', cursive;
+}
+
+header .nav-link:hover {
+    color: var(--light);
+    opacity: 1;
+}
+
+header .nav-link.active {
+    color: var(--dark);
+    cursor: default;
+}

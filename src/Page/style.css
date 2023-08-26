@@ -1,0 +1,33 @@
+main h2 {
+    font-size: 2.5rem;
+}
+
+.fa-user-circle {
+    font-size: 6rem;
+}
+
+.skills .list-group-item {
+   background-color: transparent; 
+   color: var(--dark);
+   border-color: var(--dark);
+}
+
+.font-style {
+    font-size: 1.5rem;
+}
+
+.resume {
+    color: var(--header-text-color);
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.strokeme
+{
+  text-shadow:
+  -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;  
+  color: var(--header-text-color);
+}

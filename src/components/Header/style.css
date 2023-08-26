@@ -1,0 +1,25 @@
+header {
+    height: 110px;
+}
+
+header h1 {
+    font-size: 5rem;
+    position: relative;
+    letter-spacing: 0.1rem;
+}
+
+header {
+    background-image: url(../../assets/img/header-background.jpg);
+    width: 100%;
+    height: auto;
+}
+
+.strokeme
+{
+  text-shadow:
+  -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;  
+  color: var(--header-text-color);
+}

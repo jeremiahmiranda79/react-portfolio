@@ -1,0 +1,8 @@
+.carousel-block {
+    background-image: url(../../assets/img/computer-flyout.png);
+    height: 200px;
+} 
+
+.carousel-indicators {
+    margin-bottom: -15px;
+}
