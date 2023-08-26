@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.c1f833b4.css",
+    "main.js": "/react-portfolio/static/js/main.b22aa5b6.js",
+    "static/media/header-background.jpg": "/react-portfolio/static/media/header-background.623e6bcb16db030333fe.jpg",
+    "static/media/horiseon-app.png": "/react-portfolio/static/media/horiseon-app.83583bf12494037fd07f.png",
+    "static/media/buonos-pizza-v2.png": "/react-portfolio/static/media/buonos-pizza-v2.282831755c73578df99d.png",
+    "static/media/buonos-pizza-v3.png": "/react-portfolio/static/media/buonos-pizza-v3.282831755c73578df99d.png",
+    "static/media/ohare-says.png": "/react-portfolio/static/media/ohare-says.cf51a04b6976895ce81c.png",
+    "static/media/logo.png": "/react-portfolio/static/media/logo.970e62c17a0959738655.png",
+    "static/media/computer-flyout.png": "/react-portfolio/static/media/computer-flyout.30a9badae03616abaf97.png",
+    "static/media/game-design-portfolio.png": "/react-portfolio/static/media/game-design-portfolio.c8bc2c05417b90d2ac90.png",
+    "static/media/tile-puzzles.png": "/react-portfolio/static/media/tile-puzzles.248bdabeba909ff2e777.png",
+    "static/media/lost-luggage.png": "/react-portfolio/static/media/lost-luggage.13f75cda80f145435630.png",
+    "static/media/word-scramble.png": "/react-portfolio/static/media/word-scramble.c8335bbe27815ffae7e5.png",
+    "static/media/buonos-pizza-v1.png": "/react-portfolio/static/media/buonos-pizza-v1.f9da523ba8a254989e03.png",
+    "static/media/text-editor.png": "/react-portfolio/static/media/text-editor.90333cda4f2baf7a9afc.png",
+    "static/media/buonos-trivia.png": "/react-portfolio/static/media/buonos-trivia.2a19d13f3d9d1d5b1b5d.png",
+    "static/media/weather-dashboard.png": "/react-portfolio/static/media/weather-dashboard.e18d6e254f003d34f03e.png",
+    "static/media/tech-blog.png": "/react-portfolio/static/media/tech-blog.7abae2f6e11e05a6b686.png",
+    "static/media/work-day-scheduler.png": "/react-portfolio/static/media/work-day-scheduler.079c7ae0b8d8bf1a0dd7.png",
+    "static/media/note-taker.png": "/react-portfolio/static/media/note-taker.168cc27c0304d7592b2c.png",
+    "static/media/generate-password.png": "/react-portfolio/static/media/generate-password.6bb44921a3458dbefde9.png",
+    "static/media/space-invaders.png": "/react-portfolio/static/media/space-invaders.e5d441f0739adf786cd9.png",
+    "static/media/tic-tac-toe.png": "/react-portfolio/static/media/tic-tac-toe.06f551a43d34945a3047.png",
+    "static/media/study-guide.png": "/react-portfolio/static/media/study-guide.33b68710d759821e35ea.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.c1f833b4.css.map": "/react-portfolio/static/css/main.c1f833b4.css.map",
+    "main.b22aa5b6.js.map": "/react-portfolio/static/js/main.b22aa5b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1f833b4.css",
+    "static/js/main.b22aa5b6.js"
+  ]
+}
