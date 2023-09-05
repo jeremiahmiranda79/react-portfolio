@@ -4,7 +4,7 @@ import './style.css'
 
 const Header = ({ pages, currentPage, setCurrentPage }) => {
     return <header className="container-fluid">
-        <div className="container d-lg-flex justify-content-lg-between py-auot">
+        <div className="container d-lg-flex justify-content-lg-between py-auto">
             <h1 className="text-center strokeme align-items">
                 Jeremiah Miranda
             </h1>

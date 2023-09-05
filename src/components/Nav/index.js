@@ -8,7 +8,6 @@ const Nav = ({ pages, currentPage, setCurrentPage }) => {
             {
                 pages.map((page) => (
                     <a 
-                        href='/#' 
                         key={page} 
                         className={`strokeme nav-link ${page === currentPage && 'active'}`}
                         onClick={() => setCurrentPage(page)}

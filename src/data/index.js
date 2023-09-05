@@ -78,7 +78,7 @@ export const projects=[
     {
         name: 'study-guide',
         description: 'JavaScript, HTML',
-        link: '',
+        link: 'https://jeremiahmiranda79.github.io/prework-study-guide/',
         repo: 'https://github.com/jeremiahmiranda79/prework-study-guide'
     },
 

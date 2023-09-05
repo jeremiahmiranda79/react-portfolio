@@ -4,7 +4,7 @@ const Resume = () => {
     return (
         <div className="skills">
             <p>
-                Download my <a className="resume strokeme" href="https://www.linkedin.com/in/jeremiah-miranda-1b298147/overlay/1635538340688/single-media-viewer/?profileId=ACoAAAnuq9YBtoOsHL_31AfwJwOu832Yl4-XXGQ">resume</a>
+                Download my <a className="resume strokeme" href="https://www.linkedin.com/in/jeremiah-miranda-1b298147/?profileId=ACoAAAnuq9YBtoOsHL_31AfwJwOu832Yl4-XXGQ">resume</a>
             </p>
 
             <div className="row mt-5">
