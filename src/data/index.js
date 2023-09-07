@@ -13,9 +13,9 @@ export const projects=[
     },
     {
         name: 'buonos-pizza-v3',
-        description: 'MERN Stack, Boostrap, Heroku, PWA',
-        link: 'https://github.com',
-        repo: 'https://github.com'
+        description: 'MongoDB, Express.js, React.js, Node.js, Boostrap, Heroku',
+        link: 'https://buonos-pizza-3-a5b81b172f5e.herokuapp.com/',
+        repo: 'https://github.com/jeremiahmiranda79/buonos-pizza-3'
     },
     //TODO 22
     //TODO 21

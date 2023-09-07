@@ -31,3 +31,16 @@ main h2 {
   1px 1px 0 #000;  
   color: var(--header-text-color);
 }
+
+.contact {
+    width: 50%;
+    background-color: gray;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+}
