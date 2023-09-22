@@ -8,7 +8,7 @@ const About = () => {
             <div className="d-flex align-items-center" resizeMode={'cover'}>
               <img src={logo} class="d-block w-25" alt="..."/>
               <p className="font-style">
-                My name is Jeremiah. I am a full stack developer with practice in frameworks, data, api's', cloud hosting, web applications, game development, progressive web apps, and mobile applications. Pround husband and father of two amazing boy's. I have three cat's who love to program with me by stepping on my key-board, and two dog's.
+                My name is Jeremiah. I am a full stack developer with practice in frameworks, data, API, cloud hosting, web applications, game development, progressive web apps, and mobile applications. Proud husband and father of two amazing boy's. I have three cat's who love to program with me by stepping on my key-board, and two dog's.
               </p>
             </div>
 
